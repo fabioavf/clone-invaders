@@ -73,7 +73,7 @@ dos aliens. Isso foi responsabilidade da função `setupLevel`.
 
 Depois disso, apenas alguns retoques finais são necessários. No meu caso, fiz a tela de título, a tela de vitória e a tela de derrota. Todas essas fazem parte apenas da interface do jogo e não têm função de jogabilidade. Essa parte, especificamente, é dependente somente de sua criatividade.
 
-## Conclusões finais
+## Considerações finais
 
 Claro que o meu desenvolvimento desse jogo não foi separado em passos e linear dessa forma. O jogo teve várias versões, que foram sendo incrementadas à medida que eu incorporava mais recursos. Precisei estudar o funcionamento do _display_ e, também, toda a lógica de um jogo. A função desse guia é te ajudar a chegar nesse caminho mais rapidamente sem cometer os erros que eu tive que cometer.
 
