@@ -6,6 +6,8 @@ Clone Invaders é um jogo desenvolvido como avaliação para a disciplina de Pro
 na Universidade Federal de Itajubá com orientação dos professores [Rodrigo Almeida](https://github.com/rmaalmeida) e [Otavio Gomes](https://github.com/osmgomes). O jogo é um clone do clássico "Space Invaders" e foi desenvolvido
 para o software [PICSimLab](https://github.com/lcgamboa/picsimlab), que simula a placa PICgenios, com o microprocessador PIC18F4520.
 
+Caso você queira saber o passo a passo do desenvolvimento desse jogo, dê uma olhada no [relatório](https://github.com/fabioavf/clone-invaders/blob/main/RELATORIO.md) de desenvolvimento que escrevi.
+
 ### Como jogar
 
 Você controla a nave usando as teclas 1 e 2 do teclado matricial do PICgenios e a tecla 4 é usada para atirar. Teclas equivalentes no teclado
